@@ -2,6 +2,7 @@ body {
   font-family: "Rajdhani", sans-serif;
   color: #ffffff;
   background-color: #010102;
+  overflow-x: hidden;
 }
 ul {
   list-style: none;
